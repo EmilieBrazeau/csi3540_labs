@@ -3,9 +3,10 @@
 ## Colour palette
 | Section         | HEX code  | Color  |
 |-----------------|-----------|--------|
-| Header          | `#e0cbf7` |   ![#e0cbf7](https://placehold.co/15x15/e0cbf7/e0cbf7.png) - Light purple|
-| Left-hand side  | `#f5e3fb` |   ![#f5e3fb](https://placehold.co/15x15/f5e3fb/f5e3fb.png) - Light pink|
-| Right-hand side | `#d0e8f8` |   ![#d0e8f8](https://placehold.co/15x15/d0e8f8/d0e8f8.png) - Light blue|
+| Header          | `#e0cbf7` |   ![#e0cbf7](https://placehold.co/50x50/e0cbf7/e0cbf7.png) - Light purple|
+| Left-hand side  | `#f5e3fb` |   ![#f5e3fb](https://placehold.co/50x50/f5e3fb/f5e3fb.png) - Light pink|
+| Right-hand side | `#d0e8f8` |   ![#d0e8f8](https://placehold.co/50x50/d0e8f8/d0e8f8.png) - Light blue|
+| Button hover | `#b889ed` |   ![#b889ed](https://placehold.co/50x50/b889ed/b889ed.png) - Darker purple|
 
 
 ## Fonts
@@ -45,4 +46,7 @@ Buttons with tag "ul li : hover" - on hover
 <br>
 <br>
 
-## UI components
+## Screenshots
+<img src="header.png" width="80%">
+<img src="component_left-hand_side.png" width="20%">
+<img src="component_right-hand_side.png" width="40%">
