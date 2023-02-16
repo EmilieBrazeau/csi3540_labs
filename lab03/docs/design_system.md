@@ -47,6 +47,6 @@ Buttons with tag "ul li : hover" - on hover
 <br>
 
 ## Screenshots
-<img src="header.png" width="80%">
+<img src="C:\Users\Emilie Brazeau\OneDrive\Documents\École\HIV2023\CSI3540\csi3540_labs\lab03\docs\assets\design_system\header.png" width="80%">
 <img src="component_left-hand_side.png" width="20%">
 <img src="component_right-hand_side.png" width="40%">
